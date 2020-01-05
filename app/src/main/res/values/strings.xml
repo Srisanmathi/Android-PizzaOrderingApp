@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework02</string>
+    <string name="Delivery">Delivery</string>
+    <string name="Add_Topping">Add Topping</string>
+    <string name="Clear_Pizza">Clear Pizza</string>
+    <string name="Checkout">Checkout</string>
+    <string name="center">center</string>
+    <string name="Your_Order">Your Order</string>
+    <string name="Base_Price">Base Price:</string>
+    <string name="Toppings">Toppings:</string>
+    <string name="Delivery_Cost">Delivery Cost:</string>
+    <string name="total">TOTAL:</string>
+    <string name="cost">6.5 $</string>
+    <string name="Finish">Finish</string>
+</resources>
